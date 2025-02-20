@@ -1,0 +1,2 @@
+/home/hoanghieu/Documents/Study/school/Lap_Cross_App-lap-4/android/app/.cxx/Debug/4l2g5923/x86/CMakeFiles/edit_cache.dir
+/home/hoanghieu/Documents/Study/school/Lap_Cross_App-lap-4/android/app/.cxx/Debug/4l2g5923/x86/CMakeFiles/rebuild_cache.dir
